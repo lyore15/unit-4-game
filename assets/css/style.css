@@ -1,0 +1,54 @@
+#blue {
+    font-weight: bold;
+    color: blue;
+}
+#yellow {
+    font-weight: bold;
+    color: yellow;
+}
+#green {
+    font-weight: bold;
+    color: green;
+}
+#red {
+    font-weight: bold;
+    color: red;
+}
+.header{
+    text-align: center;
+}
+.instructions{
+    text-align: left;
+    border-style: solid;
+    background-color: lightsteelblue;
+    width: 550px;
+}
+.numberToMatch{
+    text-align: left;
+    border-style: solid;
+    background-color: white;
+    width: 310px;
+}
+
+.winsLosses{
+    border-style: solid;
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    
+}
+.crystals{
+    width: 320px;
+    padding: 10px;
+    border-style: solid;
+    background-color: lightsteelblue;
+    
+}
+.totalScore{
+    width: 380px;
+    padding: 10px;
+    border-style: solid;
+    background-color: white;
+    margin: 0;
+}
+
